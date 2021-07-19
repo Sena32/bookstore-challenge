@@ -59,6 +59,6 @@ yarn start
 <div align="center">
   <small>Desenvolvido por Ailton de Sena Pinheiro - Julho/2021</small>
 
-  [![Linkedin Badge]](https://www.linkedin.com/in/ailtonsenap/)
+  [![GitHub Badge](https://img.shields.io/badge/Ailton_Sena-000?style=for-the-badge&logo=github&logoColor=white&link=https://www.linkedin.com/in/ailtonsenap)](https://github.com/Sena32/)
     [![Linkedin Badge](https://img.shields.io/badge/Ailton_Sena-000?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/ailtonsenap)](https://www.linkedin.com/in/ailtonsenap/) 
 </div>
