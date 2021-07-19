@@ -1,0 +1,55 @@
+{
+  "clients": [
+    {
+      "id": "f52fe144-117e-4360-b370-6e7e956c8000",
+      "name": "Margaret Atwood",
+      "email": "margaret@test.com",
+      "document": "3456789990"
+    },
+    {
+      "id": "081195b0-980f-4d59-91e0-17ba12e38001",
+      "name": "Aldous Huxley",
+      "email": "aldous@test.com",
+      "document": "3456789991"
+    },
+    {
+      "name": "AILTON",
+      "email": "seninha.sena9@gmail.com",
+      "document": "100.830.184-17",
+      "id": "sudsJmH"
+    }
+  ],
+  "books": [
+    {
+      "id": "3c735293-b5ad-41d1-a9c8-1758be9e35f6",
+      "name": "Crazy Rich",
+      "author": "Kevin Kwa",
+      "description": "the outrageously funny debut novel about three super-rich, pedigreed Chinese families and the gossip...",
+      "top": true,
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/71kHqp7seSL.jpg"
+    },
+    {
+      "id": "3c735293-b5ad-41d1-a9c8-1758be9e35f7",
+      "name": "Crazy Rich 2",
+      "author": "Kevin Kwan",
+      "top": true,
+      "description": "the outrageously funny debut novel about three super-rich, pedigreed Chinese families and the gossip...",
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/71kHqp7seSL.jpg"
+    },
+    {
+      "id": "081195b0-980f-4d59-91e0-17ba12e363eb",
+      "name": "Dystopian",
+      "author": "Aldous Huxley",
+      "top": true,
+      "description": "Dystopian novel written in 1931 by English author Aldous Huxley, and published in 1932. Largely set in...",
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/21iZUA6uOTL._SX314_BO1,204,203,200_.jpg"
+    },
+    {
+      "id": "cc8f2eb0-e0de-4d33-86f4-e99ad4c7e5c9",
+      "name": "Educated",
+      "author": "Tara Westover",
+      "description": "It is a tale of fierce family loyalty and of the grief that comes with severing the closest of ties. With...",
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/91ZaY9Kkp0L.jpg"
+    }
+  ]
+}
