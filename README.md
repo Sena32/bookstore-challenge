@@ -59,6 +59,5 @@ yarn start
 <div align="center">
   <small>Desenvolvido por Ailton de Sena Pinheiro - Julho/2021</small>
 
-  [![Instagram Badge]](https://www.instagram.com/rodrigo.goncalves.s/) 
   [![Linkedin Badge]](https://www.linkedin.com/in/ailtonsenap/) 
 </div>
